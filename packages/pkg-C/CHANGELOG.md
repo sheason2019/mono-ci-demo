@@ -1,5 +1,12 @@
 # @mono-ci-demo/pkg-c
 
+## 1.0.2
+
+### Patch Changes
+
+- Updated dependencies [288daeb]
+  - @mono-ci-demo/pkg-b@1.0.2
+
 ## 1.0.1
 
 ### Patch Changes
